@@ -66,7 +66,7 @@ def create_bitmap(M):
 if __name__ == "__main__":
     # fname = 'test_2022'
     # fname = 'sim1_2022'
-    fname = 'sim1_2022'
+    fname = 'data/sim1_2022'
     # fname = 'sim3_2022'
 # Select modulation type
     # Use 8 bits per symbol and 256 square QAM

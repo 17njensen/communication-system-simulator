@@ -72,7 +72,7 @@ if __name__ == "__main__":
     # fname = 'test_2022'
     # fname = 'sim1_2022'
     # fname = 'sim2_2022'
-    fname = 'sim4_2022'
+    fname = 'data/sim4_2022'
 # Select modulation type
     # Use 8 bits per symbol and 256 square QAM
     B = 8;            # Bits per symbol (B should be even: 8, 6, 4, 2)
